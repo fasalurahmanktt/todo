@@ -897,6 +897,9 @@ export default function App() {
                   <div style={{ fontSize: '13px', color: 'var(--text-muted)', marginTop: '4px' }}>
                     <i className="ti ti-map-pin" style={{ marginRight: '4px' }}></i> Malappuram, Kerala, India
                   </div>
+                  <div style={{ fontSize: '13px', color: 'var(--text-muted)', marginTop: '4px' }}>
+                    <i className="ti ti-school" style={{ marginRight: '4px' }}></i> Jawaharlal College of Engineering and Technology
+                  </div>
                 </div>
               </div>
 
@@ -1787,7 +1790,7 @@ export default function App() {
                   </div>
                   <div>
                     <div style={{ fontSize: '12px', color: 'var(--text-muted)' }}>Email Me</div>
-                    <a href="mailto:fasalurahman@email.com" style={{ fontSize: '14px', color: 'var(--text-primary)', textDecoration: 'none', fontWeight: '500' }}>fasalurahman@email.com</a>
+                    <a href="mailto:fasalurahman655@gmail.com" style={{ fontSize: '14px', color: 'var(--text-primary)', textDecoration: 'none', fontWeight: '500' }}>fasalurahman655@gmail.com</a>
                   </div>
                 </div>
 
@@ -1810,12 +1813,22 @@ export default function App() {
                     <span style={{ fontSize: '14px', color: 'var(--text-primary)', fontWeight: '500' }}>Open to Work / Freelance</span>
                   </div>
                 </div>
+
+                <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+                  <div style={{ width: '40px', height: '40px', borderRadius: '8px', background: 'var(--bg-secondary)', border: '1px solid var(--border)', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'var(--accent)', fontSize: '18px' }}>
+                    <i className="ti ti-phone"></i>
+                  </div>
+                  <div>
+                    <div style={{ fontSize: '12px', color: 'var(--text-muted)' }}>Call / WhatsApp</div>
+                    <a href="tel:+919656204843" style={{ fontSize: '14px', color: 'var(--text-primary)', textDecoration: 'none', fontWeight: '500' }}>+91 96562 04843</a>
+                  </div>
+                </div>
               </div>
 
               {/* WhatsApp direct chat button */}
               <div style={{ marginTop: '32px' }}>
                 <a
-                  href="https://wa.me/910000000000"
+                  href="https://wa.me/919656204843"
                   target="_blank"
                   rel="noreferrer"
                   style={{
